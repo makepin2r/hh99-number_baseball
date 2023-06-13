@@ -4,6 +4,6 @@
 숫자 야구를 구현하였습니다.
 
 ## 팀원
-### [이수진](https://github.com/soolovepat)
-### [박민지](https://github.com/Art-mj1)
-### [탁승현](https://github.com/makepin2r)
+#### [이수진](https://github.com/soolovepat)
+#### [박민지](https://github.com/Art-mj1)
+#### [탁승현](https://github.com/makepin2r)
